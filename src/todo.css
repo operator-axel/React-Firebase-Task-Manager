@@ -1,0 +1,25 @@
+.todo__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  border: 1px solid #1aff98;
+  border-radius: 10px;
+  box-shadow: 0px 8px 6px -6px #1aff98;
+  margin-bottom: 10px !important;
+  margin-top: 40px !important;
+}
+
+.matrix {
+  box-shadow: 0px 8px 6px -6px #1aff98;
+  border-radius: 2px;
+}
+
+.tag-bubble {
+  display: inline-block;
+  background-color: #ff9800;
+  border-radius: 15px;
+  padding: 3px 8px;
+  margin-left: 20px;
+  font-size: 0.875rem;
+}

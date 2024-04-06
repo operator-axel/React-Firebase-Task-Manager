@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-image: linear-gradient(
+    to right,
+    #109f5f 0%,
+    #14c676 50%,
+    #1aff98 100%
+  );
+}
+.App {
+  display: grid;
+  place-items: center;
+}
